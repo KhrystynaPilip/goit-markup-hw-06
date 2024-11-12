@@ -118,7 +118,7 @@ img {
     display: none;
   }
 
-  .mobile-open-btn {
+  .mobile-menu-open-btn {
     line-height: 0;
     border: none;
     background-color: transparent;
@@ -250,7 +250,7 @@ img {
 }
 /* =========== TABLET 👇 ========================================= */
 @media screen and (min-width: 768px) {
-  .mobile-open-btn {
+  .mobile-menu-open-btn {
     display: none;
   }
 
